@@ -5,15 +5,14 @@ Nesta atividade, você irá fazer exercícios de programação com o objetivo de
 
 ## Informações Gerais
 
-- Nome:
-- Matrícula:
+- Nome: Oliveiros
+- Matrícula: 1662959
 
 ## Prints do console do navegador
 
-<<  COLOQUE A IMAGEM - LISTAGEM DE TÍTULOS - AQUI >>
+### Listagem de títulos, médias e checagens
+<img width="1434" height="845" alt="print 1" src="https://github.com/user-attachments/assets/38419787-2a20-4065-96bf-6c931a78f114" />
 
-<<  COLOQUE A IMAGEM - CÁLCULO DE MÉDIAS - AQUI >>
+### Títulos em maiúsculo e demais saídas
+<img width="527" height="700" alt="print 2" src="https://github.com/user-attachments/assets/70ff3781-04c9-4426-a758-aa06939cae27" />
 
-<<  COLOQUE A IMAGEM - RESUMO DE VERIFICAÇÕES (SOME E EVERY) - AQUI >>
-
-<<  COLOQUE A IMAGEM - PÁGINA COM O RESUMO - AQUI >>
